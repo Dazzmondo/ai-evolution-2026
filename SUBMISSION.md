@@ -6,7 +6,7 @@
 > Answer the questions below, then run `python make_submission.py` in this
 > folder. That produces the single file you upload.
 >
-> Delete each `TODO` as you finish that section. The script will not build
+> Delete each  as you finish that section. The script will not build
 > your submission while any remain — that is deliberate, so you never upload
 > a half-finished file by accident.
 
@@ -76,7 +76,14 @@ does to the gap before AlexNet.**
 
 There is no correct answer here. There are defensible ones.
 
-TODO
+SUPPLY = {
+    "architecture": (1989, "LeNet / digit recognition", "Deep learning in production, reading cheques, a decade before it was famous."),
+    "compute": (2007, "CUDA: commodity gaming silicon becomes general-purpose parallel compute."),
+    "data": (1998, "MNIST: labelled data at a scale nobody had assembled before (60,000 images)"),
+}
+
+LeNet in 1989 built on the backpropagation from 1986, and brought it from a research concept to a more practical architecture that could solve real-world recognition problems. This represents a better point of availability at commodity scale than the earlier year of 1986.
+While ImageNet in 2009 offered data at an even greater scale, I would argue that data was already available at a large enough scale in 1998, when MNIST built on the existing NIST dataset to reach 60,000 images. This could already be seen as data being available at commodity scale long before ImageNet. See https://en.wikipedia.org/wiki/MNIST_database and https://www.kaggle.com/discussions/questions-and-answers/269387
 
 ---
 
