@@ -1,7 +1,7 @@
 # Week 1 Submission
 
 **Student number:** 20119105
-**Name:** Darragh Breheny
+**Name:** Darragh Breheny O'Donovan
 
 > Answer the questions below, then run `python make_submission.py` in this
 > folder. That produces the single file you upload.
@@ -63,7 +63,7 @@ Save your plot as `submission-crossover.png` **in this folder**. Do not put it
 in `figures/` — that folder is in `.gitignore` and is emptied when the scripts
 regenerate, so anything saved there will be lost.
 
-Connectionism overtakes symbolic AI in the 2000s, according to the plot. The crossover matches the story of the lecture. Symbolic dominated from Dartmouth in the 1950s to the 1990s, including both crashes and subsequent winters that overpromised. The lecture suggested the crossover happened between 2005 and 2012 when AlexNet arrived, but there is in fact no symbolic milestones after Deep Blue defeated Gary Kasparov in 1997.
+Connectionism overtakes symbolic AI in the 2000s, according to the plot. The crossover matches the story of the lecture. Symbolic dominated from Dartmouth in the 1950s to the 1990s, including both crashes and subsequent winters that overpromised. The lecture suggested the crossover happened between 2005 and 2012 when AlexNet arrived, but there are in fact no symbolic milestones after Deep Blue defeated Gary Kasparov in 1997.
 ---
 
 ## 3. Exercise 2 — Argue with the supply dates
